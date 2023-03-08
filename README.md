@@ -28,7 +28,6 @@ Note: Make sure that both the client and server programs are in the same network
 ## Additional Feature:
 1. Added timestamp for message being sent
 2. Added color for display to differentiate server and client message
-3. Better UI to indicate start/end of the communication
 
 
 ## Communication Demo
