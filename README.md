@@ -1,4 +1,4 @@
-# Simple Chat Client & Server
+# Simple Chat Room
 
 
 ## Introduction
